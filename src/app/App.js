@@ -45,3 +45,5 @@ class App extends React.Component {
     }
 }
 export default App;
+
+//minuto 33.04 del video segunda parte
